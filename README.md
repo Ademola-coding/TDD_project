@@ -23,7 +23,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-## 📖 School Library command-Line App <a name="about-project"></a>
+## 📖 TDD project <a name="about-project"></a>
 
 The Test-Driven Development (TDD) Project is a hands-on exercise in implementing the principles of TDD using Ruby. The project involves creating a Solver class with methods such as factorial, reverse, and fizzbuzz, with the unique aspect being that tests are written before the code. This project serves as a practical experience in writing tests first and then developing software that passes these tests, adhering to best practices for Ruby and professional documentation.
 
